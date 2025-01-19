@@ -1,0 +1,50 @@
+
+
+/*ESTILOS MAIN*/
+#main{
+    height: 90vh;
+    padding-top: 40px;
+}
+
+.imgMain{
+    width: 30%;
+    height: 30%;
+}
+
+.containerIndex{
+    display: flex;
+    flex-direction: column; 
+}
+
+.caja1{
+    display: flex;
+    justify-content: center;
+}
+
+.caja1 p{
+    width: 30%;
+    font-size: 28px;
+    justify-content: center;
+    align-content: center;
+}
+
+p{
+    text-align: center;
+}
+
+.caja1 img{
+    width: 20%;
+    height: 20%;
+}
+
+.caja1 a{
+    justify-content: center;
+}
+
+.caja1 a{
+    text-decoration: none;
+    margin: 40px;
+    background-color: rgb(216, 224, 240);
+    padding: 15px;
+    border-radius: 10px;
+}
