@@ -1,16 +1,15 @@
-@import "reset";
-@import "header";
-@import "body";
-@import "main";
-@import "footer";
+/*PRESETS*/
+@import "presets/reset";
+@import "presets/header";
+@import "presets/body";
+@import "prestes/main";
+@import "presets/footer";
 
+/*PAGES*/
 @import "index ";
-@import "acercaDe";
-@import "inFo";
-@import "planes";
-@import "contacto";
+@import "pages-sass/acercaDe";
+@import "pages-sass/inFo";
+@import "pages-sass/planes";
+@import "pages-sass/contacto";
 
 
-/*PAGINA INFO*/
-
-/*PAGINA PLANES*/
